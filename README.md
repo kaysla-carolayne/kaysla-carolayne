@@ -4,7 +4,7 @@
   <a href="https://github.com/kaysla-carolayne">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=kaysla-carolayne&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaysla-carolayne&layout=compact&langs_count=7&theme=radical"/>
-    <img align="right" alt="kah-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895859556834492447/991062109225877534/Anime_Gifs.gif">
+    <img align="right" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895859556834492447/991062109225877534/Anime_Gifs.gif">
 </div>
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   
