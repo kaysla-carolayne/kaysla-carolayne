@@ -6,7 +6,19 @@
      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaysla-carolayne&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  
+  
+  <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895859556834492447/991065168685449246/Anime_Gifs.gif">
+
+  
+  
+ 
+  
+  
 </div>
+
+
+
 
 ##
   <a href="https://www.instagram.com/heey.kaah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -16,7 +28,3 @@
 
 ![Snake animation](https://github.com/kaysla-carolayne/kaysla-carolayne/blob/output/github-contribution-grid-snake.svg)
  </div>
- 
- 
- 
-<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895859556834492447/991065168685449246/Anime_Gifs.gif">
