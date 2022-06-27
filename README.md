@@ -16,3 +16,4 @@
 
 ![Snake animation](https://github.com/kaysla-carolayne/kaysla-carolayne/blob/output/github-contribution-grid-snake.svg)
  </div>
+![image](https://user-images.githubusercontent.com/71034119/176021945-bfefb630-7192-41ce-a119-fe47e4fa3149.png)
