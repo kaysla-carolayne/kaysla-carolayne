@@ -6,6 +6,7 @@
      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaysla-carolayne&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
+  <div  align="center"> 
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
 
