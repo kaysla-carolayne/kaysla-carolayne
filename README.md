@@ -6,7 +6,6 @@
      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaysla-carolayne&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-   <img align="right" alt="anime" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895859556834492447/991065168685449246/Anime_Gifs.gif">
 </div>
 
 ##
