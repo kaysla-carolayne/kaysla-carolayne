@@ -16,5 +16,5 @@
 
 ![Snake animation](https://github.com/kaysla-carolayne/kaysla-carolayne/blob/output/github-contribution-grid-snake.svg)
  </div>
-https://media.discordapp.net/attachments/895859556834492447/991065168685449246/Anime_Gifs.gif
+ <img align="center" src="https://media.discordapp.net/attachments/895859556834492447/991065168685449246/Anime_Gifs.gif">
 
