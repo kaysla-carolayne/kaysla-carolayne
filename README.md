@@ -6,8 +6,9 @@
      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaysla-carolayne&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
-  <div  align="center"> 
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 </div>
 
 ##
